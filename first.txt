@@ -1,1 +1,2 @@
-This is read me file....
+This is read me file.
+we are in the git one on one session
